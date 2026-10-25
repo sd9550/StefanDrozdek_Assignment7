@@ -1,0 +1,42 @@
+services:
+  catalog-service:
+    build:
+      context: .
+      dockerfile: CatalogService/Dockerfile
+    ports:
+      - "5001:8080"
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    volumes:
+      - ./data/catalog:/app/data
+
+  repair-service:
+    build:
+      context: .
+      dockerfile: RepairService/Dockerfile
+    ports:
+      - "5002:8080"
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      CatalogService__BaseUrl: http://catalog-service:8080/
+    volumes:
+      - ./data/repair:/app/data
+    depends_on:
+      - catalog-service
+
+  sales-service:
+    build:
+      context: .
+      dockerfile: SalesService/Dockerfile
+    ports:
+      - "5003:8080"
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      RepairService__BaseUrl: http://repair-service:8080/
+    volumes:
+      - ./data/sales:/app/data
+    depends_on:
+      - repair-service
