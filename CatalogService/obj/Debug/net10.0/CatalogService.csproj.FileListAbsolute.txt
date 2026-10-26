@@ -148,3 +148,4 @@ C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\
 C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\CatalogService\obj\Debug\net10.0\CatalogService.pdb
 C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\CatalogService\obj\Debug\net10.0\CatalogService.genruntimeconfig.cache
 C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\CatalogService\obj\Debug\net10.0\ref\CatalogService.dll
+C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\CatalogService\obj\Debug\net10.0\CatalogService.sourcelink.json

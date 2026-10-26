@@ -148,3 +148,4 @@ C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\
 C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\SalesService\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\SalesService\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\SalesService\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\SalesService\obj\Debug\net10.0\SalesService.sourcelink.json

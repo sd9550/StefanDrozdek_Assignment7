@@ -1,0 +1,15 @@
+C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\bin\Debug\net10.0\PrototypeStore.exe
+C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\bin\Debug\net10.0\PrototypeStore.deps.json
+C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\bin\Debug\net10.0\PrototypeStore.runtimeconfig.json
+C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\bin\Debug\net10.0\PrototypeStore.dll
+C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\bin\Debug\net10.0\PrototypeStore.pdb
+C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\obj\Debug\net10.0\PrototypeStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\obj\Debug\net10.0\PrototypeStore.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\obj\Debug\net10.0\PrototypeStore.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\obj\Debug\net10.0\PrototypeStore.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\obj\Debug\net10.0\PrototypeStore.sourcelink.json
+C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\obj\Debug\net10.0\PrototypeStore.dll
+C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\obj\Debug\net10.0\refint\PrototypeStore.dll
+C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\obj\Debug\net10.0\PrototypeStore.pdb
+C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\obj\Debug\net10.0\PrototypeStore.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Documents\css\SOFTWARE DESIGN\StefanDrozdek_Assignment7\obj\Debug\net10.0\ref\PrototypeStore.dll
